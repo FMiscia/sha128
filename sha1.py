@@ -145,7 +145,7 @@ else:
 	f = range(160)
 	f = create(msg)
 	print f
-	birthdayAttack(msg,f)
+	#birthdayAttack(msg,f)
 
 
 
